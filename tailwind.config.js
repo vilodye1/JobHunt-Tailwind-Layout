@@ -13,6 +13,7 @@ module.exports = {
         platinum: 'hsl(222, 15%, 87%)',
         powderBlue: 'hsl(211, 29%, 74%)',
         moonstone: 'hsl(188, 36%, 52%)',
+        hover: '#FF923F',
         royalBlue: 'hsl(222, 82%, 21%)',
         darkGrayishBlue: 'hsl(227, 12%, 61%)',
         charcoal: 'hsl(222, 19%, 27%)',
